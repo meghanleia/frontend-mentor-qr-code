@@ -17,7 +17,7 @@ body {
 }
 
 p {
-    color: hsl(220, 15%, 55%);
+    color: hsl(212, 45%, 89%);
     padding: 0 25px 0;
     font-family: 'Outfit', sans-serif;
     font-size: 16px;
@@ -45,6 +45,7 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
 .attribution {
     font-size: 11px; 
     font-family: 'Outfit', sans-serif;
